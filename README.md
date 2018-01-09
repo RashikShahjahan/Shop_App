@@ -1,3 +1,3 @@
-# JSONParsingUsingOkHTTP
-Demo for JSON Parsing using okHttp Library
+# Shop App
+An android app which lists the products in a Shopify store.
 
